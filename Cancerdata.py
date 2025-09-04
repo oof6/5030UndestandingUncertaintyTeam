@@ -26,3 +26,8 @@
 # - Compare your answers with `sns.boxplot`; making a boxplot yourself is kind of a pain, but you could make a 5-number summary visualization
 # - Anything outside the whiskers is an **outlier**; write a method that returns a Boolean vector indicating if the observations are outliers
 
+
+# %%
+
+
+# %%
